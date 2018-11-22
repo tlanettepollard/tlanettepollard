@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter|Open+Sans');
+
+
+/*
+
+* {
+  outline: 1px solid black; */
+box-sizing: border-box;
+}
+
+body, html {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+h1, h2, h3, h5 {
+  font-family: 'Architects Daughter', cursive;
+}
+
+h4, p, input, li a {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+/*Navbar*/
+
+.navbar-nav {
+  display: flex;
+  padding-left: 0; 
+  margin-bottom: 0;
+}
+
+.navbar-brand {
+  font-family: 'Architects Daughter', cursive;
+}
+
+.navbar .nav-flex-icons {
+  flex-direction: row;
+}
+
+.navbar-right {
+  padding-right: 60px;
+  
+}
+
+
+/*Welcome Section*/
+#welcome-section {
+  display: flex;
+  flex-direction: column;
+  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1148131/ladder-2202669_1280.jpg);
+  position: relative;
+  max-width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+
+.text-block {
+position: absolute;
+  bottom: 0; /*At the Bottom*/
+  background: rgb(0,0,0);
+  background: rgba(0,0,0,0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+/*Project Gallery*/
+
+
+h2 {
+  display: block;
+  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  line-height: 1.1;
+}
+
+#projects {
+  background-color: #ECEFF1;
+  width: 100%;
+  height: 1200px;
+  padding: 50px 80px;
+}
+
+#projects .section {
+ margin-bottom: 60px;
+  padding-bottom: 60px;
+}
+
+
+.card {
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 10px; 
+}
+
+.card-footer  {
+  background-color: #90A4AE;
+}
+
+p.card-title {
+  font-size: 1.5rem;
+}
+
+p.card-text {
+  font-size: 1rem;
+}
+
+
+
+/*Parallax Sections*/ 
+
+.parallax1 {
+  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1148131/vatican-1136071_1920.jpg);
+  position: relative;
+  min-height: 300px;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+/*About Section*/
+
+#about {
+  height: auto;
+}
+
+#about p {
+  font-size: 16px;
+}
+.skills {
+  display: flex;
+  flex-direction: column;
+}
+
+.progress {
+  align-items: space-evenly;
+}
+
+/*Contact Section*/
+#contact h3 {
+  
+}
+
+
+/*Fooder Section*/
+
+footer {
+  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1148131/cyber-3400789_1920.jpg);
+  height: 200px;
+}
+footer ul {
+  list-style-type: none;
+}
+
+.social-icons a {
+  text-decoration: none;
+}
+
+.designer a:link {
+  color: white;
+}
+.designer a:hover {
+  color: #CFD8DC;
+}
+/*Media Queries*/
+@media screen and (max-width: 992px){
+  #projects {
+    height: auto;
+  }
+  .card {
+    margin-top: 20px;
+  }
+ .parallax1 {
+   background-attachment: scroll;
+  }
+  footer {
+    display: flex;
+    flex-direction: column;
+  }
+}
