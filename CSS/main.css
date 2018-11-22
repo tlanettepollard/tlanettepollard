@@ -131,8 +131,9 @@ nav {
 
 /* Main Section Styling */
 header {
+	width: 100%;
 	padding: 2rem 1rem;
-	margin-bottom: 2rem;
+	margin-bottom: 2rem auto;
 	background-color: #efecec;
 	border-radius: .3rem;
 }
@@ -153,7 +154,7 @@ main {
 }
 
 footer {
-	width: 100%;
+  width: 100%;
   justify-content: space-evenly;
   padding-top: 3em;
   padding-bottom: 3em;
