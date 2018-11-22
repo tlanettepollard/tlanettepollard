@@ -153,8 +153,10 @@ main {
 }
 
 footer {
+	width: 100%;
   justify-content: space-evenly;
-  padding: 20px;
+  padding-top: 3em;
+  padding-bottom: 3em;
  }
 
 @media (min-width: 576px) {
