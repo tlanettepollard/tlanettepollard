@@ -149,6 +149,7 @@ p.intro {
 }
 
 main {
+	height: 300px;
 	padding-bottom: 2rem;
 	margin-bottom: 2rem;
 }
