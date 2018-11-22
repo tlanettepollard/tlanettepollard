@@ -29,11 +29,14 @@ h4, p, li, a {
 
 nav {
 	list-style: none;
-	justify-content: space-between;
-	align-items: baseline;
 	padding-left: 0;
 	margin-bottom: 0;
 
+}
+
+nav li a {
+	justify-content: space-between;
+	align-items: baseline;
 }
 
 
