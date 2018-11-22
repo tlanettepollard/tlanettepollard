@@ -141,10 +141,6 @@ p.intro {
 	display: block;
 	margin-top: 0;
 	margin-bottom: 1rem;
-	-webkit-margin-before: 1em;
-  -webkit-margin-after: 1em;
-  -webkit-margin-start: 0px;
-  -webkit-margin-end: 0px;
 }
 
 main {
