@@ -28,26 +28,17 @@ h4, p, li, a {
 /* Navbar */
 
 nav {
+	list-style: none;
+	justify-content: space-between;
+	align-items: baseline;
 	padding-left: 0;
 	margin-bottom: 0;
 
 }
 
-#navbar {
-	flex-direction: row;
-	justify-content: space-between;
-	align-items: center;
-}
 
-nav ul, footer ul { 
-	font-size: 1em; 
-	padding: 0px; 
-	list-style: none; 
-	font-weight: bold; 
-}
-nav li a, footer li a {
-	text-decoration: none;
-}
+
+
 
 	
 
