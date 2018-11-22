@@ -104,7 +104,7 @@ nav {
 @media screen and (min-width: 768px) {
   .navbar {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     padding-bottom: 0;
     height: 70px;
     align-items: center;
@@ -141,10 +141,69 @@ p.intro {
 	display: block;
 	margin-top: 0;
 	margin-bottom: 1rem;
+	-webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+
+main {
+	padding-bottom: 2rem;
+	margin-bottom: 2rem;
 }
 
 footer {
   justify-content: space-evenly;
   padding: 20px;
  }
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px){
+  .container {
+    max-width: 960px;
+  }
+  main {
+    flex-direction: row;
+  }
+  /*
+  article {
+    padding: 0 15px 0 15px;
+  } */
+}
+
+@media (min-width: 1200px){
+  .container {
+    max-width: 1140px;
+  }
+  main {
+    flex-direction: row;
+  }
+  /*
+  article {
+    padding: 0 15px 0 15px;
+  } */
+}
+
+@media (min-width: 1440px) {
+  .container {
+    max-width: 1400px;
+  }
+  main {
+    flex-direction: row;
+  }
+  /*
+  article {
+    padding: 0 15px 0 15px;
+  } */
+}
 
