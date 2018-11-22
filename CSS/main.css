@@ -133,7 +133,7 @@ nav {
 header {
 	width: 100%;
 	padding: 2rem 1rem;
-	margin-bottom: 2rem auto;
+	margin-bottom: 2rem;
 	background-color: #efecec;
 	border-radius: .3rem;
 }
