@@ -128,3 +128,9 @@ nav {
     display: none;
   }
 }
+
+footer {
+  justify-content: space-evenly;
+  padding: 20px;
+ 
+
