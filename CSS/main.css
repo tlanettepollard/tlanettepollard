@@ -129,6 +129,20 @@ nav {
   }
 }
 
+/* Main Section Styling */
+header {
+	padding: 2rem 1rem;
+	margin-bottom: 2rem;
+	background-color: #efecec;
+	border-radius: .3rem;
+}
+
+p.intro {
+	display: block;
+	margin-top: 0;
+	margin-bottom: 1rem;
+}
+
 footer {
   justify-content: space-evenly;
   padding: 20px;
