@@ -1,254 +1,197 @@
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter|Open+Sans');
 
+
+/*
+
 * {
- /* outline: 1px solid black;*/
+  outline: 1px solid black; */
+box-sizing: border-box;
+}
+
+body, html {
+  width: 100%;
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+h1, h2, h3, h5 {
+  font-family: 'Architects Daughter', cursive;
+}
+
+h4, p, input, li a {
+  font-family: 'Open Sans', sans-serif;
 }
 
 
-body {
-	margin: 0;
-  	padding-top: 3.5rem;
-  	font-family: 'Open Sans', Sans-Serif;
-  	font-size: 1rem;
-  	font-weight: 400;
-  	line-height: 1.5;
-  	text-align: left;
-  	background-color: #fff;
+/*Navbar*/
+
+.navbar-nav {
+  display: flex;
+  padding-left: 0; 
+  margin-bottom: 0;
+}
+
+.navbar-brand {
+  font-family: 'Architects Daughter', cursive;
+}
+
+.navbar .nav-flex-icons {
+  flex-direction: row;
+}
+
+.navbar-right {
+  padding-right: 60px;
   
 }
 
-body, header, main, footer {
-	display: flex;
+
+/*Welcome Section*/
+#welcome-section {
+  display: flex;
+  flex-direction: column;
+  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1148131/ladder-2202669_1280.jpg);
+  position: relative;
+  max-width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  justify-content: center;
+  text-align: center;
+  color: white;
 }
 
-/* Mobile First Design */
-
-body, header, main {
-	flex-direction: column;
+.text-block {
+position: absolute;
+  bottom: 0; /*At the Bottom*/
+  background: rgb(0,0,0);
+  background: rgba(0,0,0,0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
 }
 
-header.container {
-	width: 100%;
-	padding-right: 35px;
-	padding-left: 35px;
-	margin-right: auto;
-	margin-left: auto;
+/*Project Gallery*/
+
+
+h2 {
+  display: block;
+  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  line-height: 1.1;
 }
 
-/* Navigation Style: Mobile */
-
-nav {
-	position: fixed;
-	top: 0;
-	right: 0;
-	left: 0;
-	z-index: 1030;
+#projects {
+  background-color: #ECEFF1;
+  width: 100%;
+  height: 1200px;
+  padding: 50px 80px;
 }
 
-.navbar {
+#projects .section {
+ margin-bottom: 60px;
+  padding-bottom: 60px;
+}
+
+
+.card {
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 10px; 
+}
+
+.card-footer  {
+  background-color: #90A4AE;
+}
+
+p.card-title {
+  font-size: 1.5rem;
+}
+
+p.card-text {
   font-size: 1rem;
-  background-image: linear-gradient(260deg, #7a5d7e 0%, #63aebb 100%);
-  border: 1px solid rgba(0,0,0,0.2);
-  padding-bottom: 10px;
 }
 
-#main-nav {
-  list-style-type: none;
-  display: none;
+
+
+/*Parallax Sections*/ 
+
+.parallax1 {
+  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1148131/vatican-1136071_1920.jpg);
+  position: relative;
+  min-height: 300px;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+/*About Section*/
+
+#about {
+  height: auto;
+}
+
+#about p {
+  font-size: 16px;
+}
+.skills {
+  display: flex;
   flex-direction: column;
 }
 
-#main-nav li {
-  text-align: center;
-  margin: 15px auto;
-  padding: 5px;
+.progress {
+  align-items: space-evenly;
 }
 
-#main-nav a {
-  padding: 2px;
-}
-
-#logo {
-  display: inline-block;
-  font-size: 1.5rem;
-  margin-top: 10px;
-  margin-left: 20px;
-}
-
-.nav-links:link {
-	color: white;
-}
-
-#logo:hover, .nav-links:hover {
-  color: yellow;
-}
-
-.nav-links, #logo {
-  text-decoration: none;
-  color: rgba(255,255,255,0.7);
-}
-
-/* Toggle Button */
-#navbar-toggle {
-  position: absolute;
-  top: 10px;
-  right: 20px;
-  cursor: pointer;
-  color: rgba(255,255,255,0.8);
-  font-size: 1.5rem;
-}
-
-#navbar-toggle:hover {
-  color: yellow;
+/*Contact Section*/
+#contact h3 {
+  
 }
 
 
-
-/* Media Queries: Navigation Desktop */
-@media screen and (min-width: 768px) {
-  .navbar {
-    display: flex;
-    justify-content: space-around;
-    padding-bottom: 0;
-    height: 70px;
-    align-items: center;
-  }
-  #main-nav {
-    display: flex !important;
-    margin-right: 30px;
-    flex-direction: row;
-    justify-content: flex-end;
-  }
-  #main-nav li {
-    margin: 0;
-  }
-  .nav-links {
-    margin-left: 40px;
-  }
-  #logo {
-    margin-top: 0;
-  }
-  #navbar-toggle {
-    display: none;
-  }
-}
-
-/* Main Section Styling */
-header {
-	padding: 2rem 1rem;
-	margin-bottom: 2rem;
-	background-color: #efecec;
-	border-radius: .3rem;
-}
-
-p.intro {
-	display: block;
-	margin-top: 0;
-	margin-bottom: 1rem;
-}
-
-main {
-	height: 300px;
-	padding-bottom: 2rem;
-	margin-bottom: 2rem;
-}
-
-
-.button {
-  display: inline-block;
-  font-weight: 400;
-  text-align: center;
-  white-space: nowrap;
-  vertical-align: middle;
-  border: 1px solid transparent;
-  padding: .375rem .75rem;
-  font-size: 1rem;
-  line-height: 1.5;
-  border-radius: .50rem;
-  cursor: pointer;
-  background-color: black;
-  color: white;
-  text-decoration: none; 
-}
-
-
+/*Footer Section*/
 
 footer {
-  width: 100%;
-  justify-content: space-between;
-  padding: 20px;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
- }
+  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1148131/cyber-3400789_1920.jpg);
+  height: 200px;
+}
+footer ul {
+  list-style-type: none;
+}
 
- footer ul {
- 	list-style-type: none;
- }
-
- .social-icons a {
+.social-icons a {
   text-decoration: none;
 }
 
-@media (min-width: 576px) {
-  .container {
-    max-width: 540px;
-  }
+.designer a:link {
+  color: white;
 }
-@media (min-width: 768px) {
-  .container {
-    max-width: 720px;
-  }
+.designer a:hover {
+  color: #CFD8DC;
 }
-
-@media (min-width: 992px){
-  .container {
-    max-width: 960px;
+/*Media Queries*/
+@media screen and (max-width: 992px){
+  #projects {
+    height: auto;
   }
-  main {
-    flex-direction: row;
+  .card {
+    margin-top: 20px;
+  }
+ .parallax1 {
+   background-attachment: scroll;
   }
   footer {
-  	flex-direction: row;
+    display: flex;
+    flex-direction: column;
   }
-  /*
-  article {
-    padding: 0 15px 0 15px;
-  } */
 }
-
-@media (min-width: 1200px){
-  .container {
-    max-width: 1140px;
-  }
-  main {
-    flex-direction: row;
-  }
-  footer {
-  	flex-direction: row;
-  }
-  /*
-  article {
-    padding: 0 15px 0 15px;
-  } */
-}
-
-@media (min-width: 1440px) {
-  .container {
-    max-width: 1400px;
-  }
-  main {
-    flex-direction: row;
-  }
-  footer {
-  	flex-direction: row;
-  }
-  /*
-  article {
-    padding: 0 15px 0 15px;
-  } */
-}
-
