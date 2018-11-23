@@ -78,6 +78,10 @@ nav {
   margin-left: 20px;
 }
 
+.nav-links:link {
+	color: white;
+}
+
 #logo:hover, .nav-links:hover {
   color: yellow;
 }
@@ -100,6 +104,8 @@ nav {
 #navbar-toggle:hover {
   color: yellow;
 }
+
+
 
 /* Media Queries: Navigation Desktop */
 @media screen and (min-width: 768px) {
@@ -182,6 +188,10 @@ footer {
  footer ul {
  	list-style-type: none;
  }
+
+ .social-icons a {
+  text-decoration: none;
+}
 
 @media (min-width: 576px) {
   .container {
