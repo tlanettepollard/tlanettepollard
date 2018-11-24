@@ -52,7 +52,7 @@ h4, p, input, li a {
 #welcome-section {
   display: flex;
   flex-direction: column;
-  background-image: url(ladder-2202669_1280.jpg);
+  background-image: url(https://tlanetterose.github.io/ladder-2202669_1280.jpg);
   position: relative;
   max-width: 100%;
   background-size: cover;
@@ -125,7 +125,7 @@ p.card-text {
 /*Parallax Sections*/ 
 
 .parallax1 {
-  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1148131/vatican-1136071_1920.jpg);
+  background-image: url(https://tlanetterose.github.io/vatican-1136071_1920.jpg);
   position: relative;
   min-height: 300px;
   width: 100%;
