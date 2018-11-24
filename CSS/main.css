@@ -52,7 +52,7 @@ h4, p, input, li a {
 #welcome-section {
   display: flex;
   flex-direction: column;
-  background-image: url(/ladder-2202669_1280.jpg);
+  background-image: url(ladder-2202669_1280.jpg);
   position: relative;
   max-width: 100%;
   background-size: cover;
