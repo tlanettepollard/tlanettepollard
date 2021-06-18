@@ -1,3 +1,3 @@
-## Welcome to TLanetteRose.github.io
+# Hi, I'm T. Lanette 🤚🏾👩🏾‍💻
 
-I decided to be bold and add my own theme to my page. I see my page as a work in progress. 
+
