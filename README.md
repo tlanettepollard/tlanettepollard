@@ -2,7 +2,7 @@
 <img src="https://github.com/tlanettepollard/tlanettepollard/blob/master/Trista%20Lanette%20PollardUp2.png" alt="banner that says Trista Lanette Pollard, Web Designer alongside picture of Trista">
 
 
-I am also a self-taught **Web Designer/Developer** preparing for my "Bonus" career after retiring from education. I have been an elementary school teacher for 29 years. I started my coding journey with introducing my 2nd grade students to the [Hour of Code](www.code.org) in 2010. Then in 2017 I began to officially study Frontend Web Development with [FreeCodeCamp](https://freecodecamp.org) and [Udacity](https://www.udacity.com/). My passion is creating and designing web pages that are appealing and use-friendly. Some of the technologies I enjoy working in are HTML, CSS, JavaScript, and more recently, ReactJS.  
+I am a self-taught **Web Designer/Developer**. I have also been an elementary school teacher for 29 years. I started my coding journey with introducing my 2nd grade students to the [Hour of Code](www.code.org) in 2010. That's when I became hooked on computer coding. So in 2017 I began to officially study **Frontend Web Development** with [FreeCodeCamp](https://freecodecamp.org) and [Udacity](https://www.udacity.com/). My passion is creating and designing web pages that are appealing and use-friendly. Some of the technologies I enjoy working in are HTML, CSS, JavaScript, and more recently, ReactJS. I love Web Designing!     
 
 ----
 
