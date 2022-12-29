@@ -8,15 +8,14 @@ I am also a self-taught **Web Designer/Developer** preparing for my "Bonus" care
 
 <h3 align="left">Bits and Bobs:</h3>
 
-- 🔭 I’m currently working on a [Frontend Mentor](https://www.frontendmentor.io/profile/tlanettepollard) project [Scoot Multipage Website](https://github.com/tlanettepollard/Scoot-Multipage-Website-TLP) and on a personal project [Bridal Nubian Designs]()
+- 🔭 I’m currently working on a [Frontend Mentor](https://www.frontendmentor.io/profile/tlanettepollard) project [Scoot Multipage Website](https://github.com/tlanettepollard/Scoot-Multipage-Website-TLP) 
 
-- 👨‍💻 All of my projects are available at [Trista Lanette Pollard](https://tristalanettepollard.com) 
+- 👨‍💻 All of my projects are available at [Trista Lanette Pollard](https://tristalanettepollard.com) and on my [GitHub Profile](https://github.com/tlanettepollard)
 
 - 📫 How to reach me **tlpollard4516@gmail.com**
 
-- 📄 Know about my experiences [TLP Resume](https://tlp-portfolio.vercel.app/assets/uploads/TLPWebDesignResumeColorBW.pdf)
+- 📄 Know about my experiences [TLP Resume](https://www.linkedin.com/in/tlanpollardnbct/)
 
-- ⚡ Fun fact **I have been working as an Elementary School Teacher for 29 years.**
 
 
 <h3 align="left">Connect with me:</h3>
