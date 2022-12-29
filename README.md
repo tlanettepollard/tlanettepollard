@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Trista Lanette Pollard 🤚🏾👩🏾‍💻</h1>
+<h1 align="center">Hi, I'm Trista 🤚🏾👩🏾‍💻</h1>
+<img src="https://github.com/tlanettepollard/tlanettepollard/blob/master/Trista%20Lanette%20Pollard.png" alt="banner that says Trista Lanette Pollard, Web Designer alongside picture of Trista">
+
+
 <h3 align="center">A self-taught coder who's passionate about Web Designing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlanettepollard&label=Profile%20views&color=0e75b6&style=flat" alt="tlanettepollard" /> </p>
