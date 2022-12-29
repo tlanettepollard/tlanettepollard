@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Trista 🤚🏾👩🏾‍💻</h1>
 <img src="https://github.com/tlanettepollard/tlanettepollard/blob/master/Trista%20Lanette%20Pollard.png" alt="banner that says Trista Lanette Pollard, Web Designer alongside picture of Trista">
 
-
-<h3 align="center">A self-taught coder who's passionate about Web Designing!</h3>
+I have been an elementary school teacher for 29 years. I am also a self-taught **Web Designer/Developer** preparing for my "Bonus" career after retiring from education. I started my coding journey with introducing my 2nd grade students to the [Hour of Code](www.code.org) in 2010. Then I officially started learning how to code in 2017 with [FreeCodeCamp](https://freecodecamp.org). 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlanettepollard&label=Profile%20views&color=0e75b6&style=flat" alt="tlanettepollard" /> </p>
 
