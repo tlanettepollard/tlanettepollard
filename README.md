@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Trista 🤚🏾👩🏾‍💻</h1>
-<img src="https://github.com/tlanettepollard/tlanettepollard/blob/master/Trista%20Lanette%20Pollard.png" alt="banner that says Trista Lanette Pollard, Web Designer alongside picture of Trista">
+<img src="https://github.com/tlanettepollard/tlanettepollard/blob/master/Trista%20Lanette%20PollardUp.png" alt="banner that says Trista Lanette Pollard, Web Designer alongside picture of Trista">
 
 I am also a self-taught **Web Designer/Developer** preparing for my "Bonus" career after retiring from education. I have been an elementary school teacher for 29 years. I started my coding journey with introducing my 2nd grade students to the [Hour of Code](www.code.org) in 2010. Then in 2017 I began to officially study Frontend Web Development with [FreeCodeCamp](https://freecodecamp.org) and [Udacity](https://www.udacity.com/). My passion is creating and designing websites that are appealing 
 
