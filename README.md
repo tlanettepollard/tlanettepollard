@@ -10,7 +10,7 @@ I am a self-taught **Web Designer/Developer**. I have also been an elementary sc
 
 - 🔭 I’m currently working on a [Frontend Mentor](https://www.frontendmentor.io/profile/tlanettepollard) project [Scoot Multipage Website](https://github.com/tlanettepollard/Scoot-Multipage-Website-TLP) 
 
-- 👨‍💻 All of my projects are available at [Trista Lanette Pollard](https://tristalanettepollard.com) and on my [GitHub Profile](https://github.com/tlanettepollard)
+- 👨‍💻 All of my projects are available at [Trista Lanette Pollard](https://tristalanettepollard.com), on [Vercel](https://vercel.com/tlanettepollard), and on my [GitHub Profile](https://github.com/tlanettepollard)
 
 - 📫 How to reach me **tlpollard4516@gmail.com**
 
