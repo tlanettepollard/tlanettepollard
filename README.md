@@ -42,6 +42,8 @@ I am a self-taught **Web Developer**. I started my web developing journey with i
 
 <h3 align="left">My Stats:</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlanettepollard&layout=compact&theme=transparent)](https://github.com/tlanettepollard/github-readme-stats)
+
 
 ![Trista's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlanettepollard&show_icons=true&theme=transparent)
 
