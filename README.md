@@ -38,3 +38,10 @@ I am a self-taught **Web Developer**. I started my web developing journey with i
 
 
 <h3 align="left">Badges:</h3>
+
+
+<h3 align="left">My Stats:</h3>
+
+
+![Trista's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlanettepollard&show_icons=true&theme=transparent)
+
