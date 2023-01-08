@@ -38,6 +38,7 @@ I am a self-taught **Web Developer**. I started my web developing journey with i
 
 
 <h3 align="left">Badges:</h3>
+<img src="https://www.holopin.io/userbadge/clb72pcac001708myo34cr9m0" alt="Surfer Moby Dock Badge" />
 
 
 <h3 align="left">My Stats:</h3>
