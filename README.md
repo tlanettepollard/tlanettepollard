@@ -37,4 +37,4 @@ I am a self-taught **Web Developer**. I started my web developing journey with i
 </p>
 
 
-
+<h3 align="left">Badges:</h3>
