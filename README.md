@@ -26,6 +26,7 @@ I am a self-taught **Web Developer**. I started my web developing journey with i
 <a href="https://linkedin.com/in/tlanpollardnbct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tlanpollardnbct" height="30" width="40" /></a>
 <a href="https://instagram.com/tlanetteroget" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tlanetteroget" height="30" width="40" /></a>
 <a href="https://medium.com/@bovaryscomplnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bovaryscomplnt" height="30" width="40" /></a>
+<a rel="me" href="https://mastodon.social/@TlanetteRoget" target="blank">Mastodon</a>
 </p>
 
 
