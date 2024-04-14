@@ -29,7 +29,7 @@ I am a self-taught **Web Developer**. I started my web developing journey with i
 <a rel="me" href="https://mastodon.social/@TlanetteRoget" target="blank"><img align="center" src="https://github.com/tlanettepollard/tlanettepollard/blob/master/icons8-mastodon-is-an-online%2C-self-hosted-social-media%2C-and-social-networking-service.-48.png" alt="@TlanetteRoget" height="30" width="40"/></a>
 </p>
 
-
+----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -39,7 +39,7 @@ I am a self-taught **Web Developer**. I started my web developing journey with i
 </p>
 
 
-         
+ ----        
           
 
 
@@ -52,7 +52,7 @@ I am a self-taught **Web Developer**. I started my web developing journey with i
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlanettepollard&layout=donut&theme=radical&langs_count=8&card_width=320" />
 </a>
 
-
+----
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tlanettepollard&theme=radical" alt="tlanettepollard" /></p>
 
 
