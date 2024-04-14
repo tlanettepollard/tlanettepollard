@@ -8,7 +8,7 @@ I am a self-taught **Web Developer**. I started my web developing journey with i
 
 <h3 align="left">Bits and Bobs:</h3>
 
-- 🔭 I’m currently working on a [Frontend Mentor](https://www.frontendmentor.io/profile/tlanettepollard) project [Scoot Multipage Website](https://github.com/tlanettepollard/Scoot-Multipage-Website-TLP) 
+- 🔭 I’m currently working on a [Frontend Mentor](https://www.frontendmentor.io/profile/tlanettepollard) project [Planet Facts Site](https://github.com/tlanettepollard/Planet-Facts-Site-w-ReactJS-Bootstrap) 
 
 - 👨‍💻 All of my projects are available at [Trista Lanette Pollard](https://tristalanettepollard.com), on [Vercel](https://vercel.com/tlanettepollard), and on my [GitHub Profile](https://github.com/tlanettepollard)
 
