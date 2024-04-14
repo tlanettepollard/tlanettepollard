@@ -48,7 +48,7 @@ I am a self-taught **Web Developer**. I started my web developing journey with i
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tlanettepollard" />
 </a>
 <a href="https://github.com/tlanettepollard/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlanettepollard&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlanettepollard&layout=donut&theme=radical&langs_count=8&card_width=320" />
 </a>
 
 
