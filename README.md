@@ -16,8 +16,7 @@ I am a self-taught **Web Developer**. I started my web developing journey with i
 
 - 📄 Know about my experiences [TLP Resume](https://www.linkedin.com/in/tlanpollardnbct/)
 
-
-----
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
