@@ -35,6 +35,8 @@ I am a self-taught **Web Developer**. I started my web developing journey with i
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
 </p>
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" />
+          
 ----
 <h3 align="left">My Stats:</h3>
 
