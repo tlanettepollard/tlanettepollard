@@ -46,8 +46,7 @@ I am a self-taught **Web Developer**. I started my web developing journey with i
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlanettepollard&layout=donut&theme=radical&langs_count=8&card_width=320" />
 </a>
 <br />
-<h3 align="left">My Streaks: </h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tlanettepollard&theme=radical" alt="tlanettepollard" /></p>
+
 
 
 
